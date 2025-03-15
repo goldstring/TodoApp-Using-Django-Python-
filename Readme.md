@@ -55,12 +55,11 @@ Ensure you have the following installed:
 - **Bootstrap 5:** Ensuring a mobile-friendly and responsive UI.
 - **HTML/CSS/JavaScript:** Frontend design and interactivity.
 
-## Conclusion
-This project not only showcases my proficiency in Django, MySQL, and Bootstrap but also highlights my ability to create **responsive and functional web applications** tailored to user needs.
 
-
+## Output
 https://github.com/yashparab7962/Python/assets/82162084/23d2d80e-bf7d-4bc3-9d34-2cfa687e2f5d
 
----
+## Conclusion
+This project not only showcases my proficiency in Django, MySQL, and Bootstrap but also highlights my ability to create **responsive and functional web applications** tailored to user needs.
 
 Feel free to contribute or raise issues if you find any bugs! 🚀
