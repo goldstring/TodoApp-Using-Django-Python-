@@ -1,5 +1,6 @@
 
 # Django ToDo Application
+![todo_app_using_django_wallpaper](https://github.com/user-attachments/assets/eceebd2b-a34c-426f-8aac-2ff5db7acc9e)
 
 ## Introduction
 In today's fast-paced world, staying organized is crucial. To streamline task management, I've developed a robust ToDo application using **Django, MySQL, and Bootstrap 5**. This application not only helps in organizing tasks efficiently but also ensures a seamless user experience with its responsive design.
